@@ -36,7 +36,7 @@ function LED1_Off(){
   client.onMessageArrived = onMessageArrived;
   var options = {
    useSSL: false,
-    userName: "javi_solis99@hotmail.com/",
+    userName: "javi_solis99@hotmail.com",
     password: "xiaomiredminote10",
     onSuccess:onConnect,
     onFailure:doFail
