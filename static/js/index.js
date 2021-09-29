@@ -78,11 +78,11 @@ function Led1_off(){
 
   }
  
-  function Hiii(){
+  function Boton3(){
   {document.getElementById('sensor1').innerHTML='Cristian Solis';}
 console.log('SE presiono el boton 3:')
   ;}
-function Hii(){
+function Boton4(){
   {document.getElementById('sensor1').innerHTML='Quinto Semestre';}
 console.log('SE presiono el boton 4:')
   ;}  
