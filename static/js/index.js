@@ -75,6 +75,7 @@ function Led1_off(){
     var la=message.payloadString.split("-");
 	  document.getElementById("sensor").innerHTML=la[0];
     document.getElementById("sensor1").innerHTML=la[1];
+    document.getElementByld("sensor2").innerHTLM=la[1]; 
 
   }
  
